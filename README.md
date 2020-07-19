@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Isaac Tait's github stats](https://github-readme-stats.vercel.app/api?username=Isaac-Tait)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait)](https://github.com/Isaac-Tait/Coding)
-
 - 🔭 I’m currently working on a few deep learning projects
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: @Isaac_Tait_83 or 
+- 😄 Pronouns: 
