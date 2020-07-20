@@ -1,9 +1,13 @@
 ### Hi there & welcome to my GitHub splash page 👋 🤓 
 
-<img src="https://tenor.com/view/cat-computer-gif-5368357">
+<img src="https://tenor.com/wGIz.gif">
 
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
+<p>From my backyard I can see a long dormant volcano. When I first started my journey towards learning to write code I would sit outside and work on my laptop while my two year old son
+would played. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many mountain top moments, whether it was 
+spiritual or personal. 
+</p>
 <br />
 <p align="center">
     <a href="https://www.mountaintopcoding.com" target="_blank">
