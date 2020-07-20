@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Isaac Tait 🤓 Welcome to my GitHub splash page 
 
+---
 ### - 🏔 My personal portfolio site (it is a work in progress):
 <br />
 <a href="https://www.mountaintopcoding.com" target="_blank">
@@ -97,7 +98,8 @@ b) I am excited to delve into the world of programable electronics.
 ---
 ### - 🌋 A few of my quirks: 
 1) I abhor contractions...
-2) If I need a nap I set a timer for 27 minute 12 second...
+2) If I need a mid afternoon coding break (a.k.a. a nap 😴) I set a timer for 27 minute 12 second...
+3) I got very excited when I met the requirements to up-vote on Stack Overflow...
 <br />
 
 ---
