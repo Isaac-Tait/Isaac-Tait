@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Isaac Tait 🤓 Welcome to my GitHub splash page 
+### Hi there & welcome to my GitHub splash page 👋 🤓 
+
+<img src="https://tenor.com/view/cat-computer-gif-5368357">
 
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
@@ -99,7 +101,7 @@ b) I am excited to delve into the world of programable electronics.
 
 ---
 ### - 🌋 A few of my quirks: 
-1) I abhor contractions...
+1) I am totally opposed to, abhor, and cannot tolerate contractions...
 2) If I need a mid afternoon coding break (a.k.a. a nap 😴) I set a timer for 27 minute 12 second...
 3) I got very excited when I met the requirements to up-vote on Stack Overflow...
 <br />
