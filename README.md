@@ -13,8 +13,8 @@ b) I am excited to delve into the world of programable electronics
   <img src="icons/raspberrypi.svg" alt="Raspberry Pi badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br />
----
 
+---
 #### - 🌱 I am currently learning the following languages/frameworks (listed abc):
 <br />
 <a href=#>
@@ -41,8 +41,8 @@ b) I am excited to delve into the world of programable electronics
   <img src="icons/python.svg" alt="Python badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br />
----
 
+---
 ### - 🏔 A few of my favorite tools/platforms are: 
 <br />
 <a href=#>
@@ -65,8 +65,8 @@ b) I am excited to delve into the world of programable electronics
   <img src="icons/visualstudio_code.svg" alt="Visual Studio Code badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br />
----
 
+---
 #### - 📫 How to reach me:
 <br />
 <a href="https://twitter.com/Isaac_Tait_83" target="_blank">
@@ -77,23 +77,23 @@ b) I am excited to delve into the world of programable electronics
   <img src="icons/email_me.svg" alt="email me badge" style="vertical-align:top margin:6px 4px">
 </a> 
 <br />
----
 
+---
 ### - 😄 Pronouns: 
 <br />
 <a href=#>
   <img src="icons/hehim.svg" alt="he/him badge" style="vertical-align:top margin:6px 4px">
 </a>  
 <br />
----
 
+---
 ### - 🌋 A few of my quirks: 
 1) I abhor contractions...
 2) If I need a nap I set a timer for 27 minute 12 second...
 3) 
 <br />
----
 
+---
 ### This is the first website that I built. Eventually it would lead me down the path towards becoming a Full Stack WebDev:
 <br />
   <a href="http://www.fallfishtenkara.com">
