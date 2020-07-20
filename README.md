@@ -57,7 +57,7 @@ b) I am excited to delve into the world of programable electronics.
 <br />
 
 ---
-### - 🏔 A few of my favorite tools/platforms are: 
+### - 💪🏼 A few of my favorite tools/platforms are: 
 <br />
 <a href=#>
   <img src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/aws.svg" alt="AWS badge" style="vertical-align:top margin:6px 4px">
