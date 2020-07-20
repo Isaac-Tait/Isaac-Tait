@@ -62,7 +62,7 @@ b) I am excited to delve into the world of programable electronics
 </a>
 <br />
 <a href=#>
-  <img src="icons/visualstudio_code.svg" alt="Visual Studio Code badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/visualstudio_code.svg" alt="Visual Studio Code badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br />
 
