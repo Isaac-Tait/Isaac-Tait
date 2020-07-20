@@ -1,13 +1,14 @@
 ### Hi there 👋 My name is Isaac Tait 🤓 Welcome to my GitHub splash page 
 
 #### - 🔭 I am currently working on: 
-1) Teaching myself Deep Learning 
+a) Teaching myself Deep Learning 
 <br />
 <a href=#>
   <img src="icons/ai.svg" alt="AI badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br/>
-2) I am excited to delve into the world of programable electronics
+b) I am excited to delve into the world of programable electronics
+<br />
 <a href=#>
   <img src="icons/raspberrypi.svg" alt="Raspberry Pi badge" style="vertical-align:top margin:6px 4px">
 </a>
@@ -61,6 +62,8 @@
 <a href=#>
   <img src="icons/visualstudio_code.svg" alt="Visual Studio Code badge" style="vertical-align:top margin:6px 4px">
 </a>
+<br />
+
 #### - 📫 How to reach me:
 <br />
 <a href="https://twitter.com/Isaac_Tait_83" target="_blank">
@@ -81,7 +84,7 @@
 
 ### - 🌋 A few of my quirks: 
 1) I abhor contractions...
-2) I take 27 minute 12 second naps...
+2) If I need a nap I set a timer for 27 minute 12 second...
 3) 
 <br />
 
