@@ -106,5 +106,5 @@ b) I am excited to delve into the world of programable electronics.
 ### This is the first website that I built. Eventually it would lead me down the path towards becoming a Full Stack WebDev:
 <br />
   <a href="http://www.fallfishtenkara.com">
-   <img src="icons/FfT-logo-small .png" alt="Fallfish Tenkara Logo" style="vertical-align:top margin:6px 4px">
+   <img src="https://github.com/Isaac-Tait/Isaac-Tait/blob/master/icons/FfT-logo-small.png" alt="Fallfish Tenkara Logo" style="vertical-align:top margin:6px 4px">
  </a>
