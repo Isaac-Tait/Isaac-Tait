@@ -8,6 +8,7 @@ My personal blog that started my path towards becoming a MERN Stack WebDev
 - 🔭 I am currently working on: 
 <br />
 - 🌱 I am currently learning the following languages/frameworks (listed abc):
+<br />
 <a href=#>
   <img src="icons/nodejs_larger.svg" alt="node.js badge" style="vertical-align:top margin:6px 4px">
 </a>
@@ -31,6 +32,7 @@ My personal blog that started my path towards becoming a MERN Stack WebDev
 <a href=#>
   <img src="icons/js.svg" alt="JavaScript badge" style="vertical-align:top margin:6px 4px">
 </a>
+<br />
 - 🏔 Some of my favorite tools/platforms are: 
 <br />
 - 📫 How to reach me:
