@@ -1,6 +1,6 @@
 ### Hi there & welcome to my GitHub splash page 👋 🤓 
 
-
+![Coding Cat](https://github.com/Isaac-Tait/Isaac-Tait/blob/master/tenor.gif)
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
 <p>From my backyard I can see a long dormant volcano. When I first started my journey towards learning to write code I would sit outside and work on my laptop while my two year old son
