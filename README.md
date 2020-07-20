@@ -1,12 +1,11 @@
 ### Hi there & welcome to my GitHub splash page 👋 🤓 
 
-<img src="https://tenor.com/wGIz.gif">
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/cat-computer-gif-5368357">Cat Computer GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
 <p>From my backyard I can see a long dormant volcano. When I first started my journey towards learning to write code I would sit outside and work on my laptop while my two year old son
-would played. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many mountain top moments, whether it was 
-spiritual or personal. 
+would play. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many spiritual and personal mountain top moments, where I would overcome adversity, uncertainty, or uncover a surprising truth. As I dove deeper and deeper into coding I realized that I was having a lot of mini mountain top moments. When I solved a complex coding challenges or I rooted out pesky bugs I would feel an overwhelming sense of accomplishment... And just like that I came up with the name for my portfolio site.
 </p>
 <br />
 <p align="center">
