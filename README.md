@@ -11,6 +11,7 @@ My personal blog that started my path towards becoming a MERN Stack WebDev
 <a href="https://twitter.com/Isaac_Tait_83">
   <img src="icons/twitter.svg" alt="twitter badge" style="vertical-align:top margin:6px 4px">
 </a> 
+<br />
 <a href=#>
   <img src="icons/email_me.svg" alt="email me badge" style="vertical-align:top margin:6px 4px">
 </a> 
