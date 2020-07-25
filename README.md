@@ -12,6 +12,7 @@ Living life for the sole purpose of pursuing <u>only</u> "mountain top" experien
   <i>"When we are in an unhealthy condition either physically or emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions and to the destruction of our morality; and in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>
 </p>
 <br />
+<p>With those words of caution emblazoned in my mind I have been teaching myself web development from home since March 12, 2019. There have been some dark days and even dark weeks (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b> </p>
 <p align="center">
     <a href="https://www.mountaintopcoding.com" target="_blank">
         <img src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/react.svg" alt="React badge" style="vertical-align:top margin:6px 4px">
