@@ -7,7 +7,7 @@
 would play. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many spiritual and personal mountain top moments, where I would overcome adversity, uncertainty, or uncover a surprising truth. As I dove deeper and deeper into coding I realized that I was having a lot of mini mountain top moments. When I solved a complex coding challenges or I rooted out pesky bugs I would feel an overwhelming sense of accomplishment... And just like that I came up with the name for my portfolio site.
 </p>
 <p>We should use the mountain top experiences in our life to strengthen us while we are in the deep and dark valleys, where the sky may be just a sliver of the expanse we crave.
-Living life for the sole purpose of pursuing <u>only</u> "mountain top" experiences can be dangerous. </p>
+Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous. </p>
 <p>
   <i>"When we are in an unhealthy condition either physically or emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions and to the destruction of our morality; and in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>
 </p>
