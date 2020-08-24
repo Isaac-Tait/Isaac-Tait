@@ -13,7 +13,10 @@ Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" expe
 </p>
 <p>With those words of caution emblazoned in my mind I have been teaching myself web development from home since March 12, 2019. There have been some dark days and even dark weeks (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b> </p>
 <p align="center">
-    <a href="https://www.mountaintopcoding.com" target="_blank">
+    <a 
+      href="https://www.mountaintopcoding.com" 
+      target="_blank"
+    >
         <img 
           src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/react.svg" 
           alt="React badge" 
@@ -151,7 +154,10 @@ b) I am excited to delve into the world of programable electronics.
 ---
 #### - 📫 How to reach me:
 <br />
-<a href="https://twitter.com/Isaac_Tait_83" target="_blank">
+<a 
+  href="https://twitter.com/Isaac_Tait_83" 
+  target="_blank"
+>
   <img 
     src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/twitter.svg" 
     alt="twitter badge" 
@@ -159,7 +165,9 @@ b) I am excited to delve into the world of programable electronics.
   >
 </a> 
 <br />
-<a href="mailto:isaac@mountaintopcoding.com">
+<a 
+  href="mailto:isaac@mountaintopcoding.com"
+>
   <img 
     src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/email_me.svg" 
     alt="email me badge" 
@@ -191,7 +199,9 @@ b) I am excited to delve into the world of programable electronics.
 ### This is the first website that I built. Eventually it would lead me down the path towards becoming a Full Stack WebDev:
 <br />
 <p align="center">
-    <a href="http://www.fallfishtenkara.com">
+    <a 
+      href="http://www.fallfishtenkara.com"
+    >
         <img 
           src="https://github.com/Isaac-Tait/Isaac-Tait/blob/master/icons/FfT-logo-small.png" 
           alt="Fallfish Tenkara Logo" 
