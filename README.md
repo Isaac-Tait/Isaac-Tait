@@ -29,7 +29,7 @@ Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" expe
 ---
 #### - 🔭 I am currently working on: 
 a) Teaching myself Deep Learning.
-<br />
+
 <a href=#>
   <img 
     src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/ai.svg" 
