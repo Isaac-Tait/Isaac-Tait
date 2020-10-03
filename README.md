@@ -189,13 +189,6 @@ b) I am excited to delve into the world of programable electronics.
 <br />
 
 ---
-### - 🌋 A few of my quirks: 
-1) I am totally opposed to, abhor, and cannot tolerate contractions...
-2) If I need a mid afternoon coding break (a.k.a. a nap 😴) I set a timer for 27 minute 12 second...
-3) I got very excited when I met the requirements to up-vote on Stack Overflow...
-<br />
-
----
 ### This is the first website that I built. Eventually it would lead me down the path towards becoming a Full Stack WebDev:
 <br />
 <p align="center">
