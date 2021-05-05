@@ -9,7 +9,7 @@
 
 <p>As an avid outdoors-man I know that being on top of a peak requires courage, tenacity, stamina, preparation, <code>&&</code> team work. Furthermore, the descent can often be considerably more dangerous than the ascent.</p>
 
-<p>**mountainTopCoding(🏔);** is not just about the summit it is about getting there <code>&&</code> getting down safely so that the next summit can be enjoyed. I believe that as a species we should use the mountain top experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave. Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous.</p>
+<p>mountainTopCoding(🏔); is not just about the summit it is about getting there <code>&&</code> getting down safely so that the next summit can be enjoyed. I believe that as a species we should use the mountain top experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave. Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous.</p>
 
 <p><i>"When we are in an unhealthy condition either physically <code>||</code> emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions <code>&&</code> to the destruction of our morality; <code>&&</code> in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>.</p>
 
