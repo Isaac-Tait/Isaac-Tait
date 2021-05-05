@@ -3,15 +3,18 @@
 ![Coding Cat](https://github.com/Isaac-Tait/Isaac-Tait/blob/master/tenor.gif)
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
-<p>From my backyard I can see a long dormant volcano. When I first started my journey towards learning to write code I would sit outside and work on my laptop while my two year old son
-would play. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many spiritual and personal mountain top moments, where I would overcome adversity, uncertainty, or uncover a surprising truth. As I dove deeper and deeper into coding I realized that I was having a lot of mini mountain top moments. When I solved a complex coding challenges or I rooted out pesky bugs I would feel an overwhelming sense of accomplishment... And just like that I came up with the name for my portfolio site.
-</p>
-<p>We should use the mountain top experiences in our life to strengthen us while we are in the deep and dark valleys, where the sky may be just a sliver of the expanse we crave.
-Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous. </p>
-<p>
-  <i>"When we are in an unhealthy condition either physically or emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions and to the destruction of our morality; and in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>
-</p>
-<p>With those words of caution emblazoned in my mind I have been teaching myself web development from home since March 12, 2019. There have been some dark days and even dark weeks (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b> </p>
+<p>From my backyard I can see a long dormant volcano that has captivated my imagination since we first moved in. Surprisingly that long dormant craggy peak has impacted my life more than I could have imagined.</p>
+
+<p>When I first started my journey learning to code I would sit outside and work on my laptop while my two year old son would play. I would often stare up at that volcano and imagine myself conquering it and standing on the summit. Throughout my life I have had many spiritual and emotional mountain top moments. Times where I would overcome adversity, uncertainty, or uncover a surprising truth. As I dove deeper and deeper into coding I realized that I was having a lot of mini mountain top moments. When I solved a complex coding challenges or I rooted out pesky bugs I would feel an overwhelming sense of accomplishment... And just like that I came up with the name for my portfolio site...mountainTopCoding(🏔);</p>
+
+<p>As an avid outdoors-man I know that being on top of a peak requires courage, tenacity, stamina, preparation, and team work. Furthermore, the descent can often be considerably more dangerous than the ascent.</p>
+
+<p>mountainTopCoding(🏔); is not just about the summit it is about getting there, getting down safely so that the next summit can be enjoyed. I believe that as a species we should use the mountain top experiences in our life to strengthen us while we are in the deep and dark valleys, where the sky may be just a sliver of the expanse we crave. Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous.</p>
+
+<p><i>"When we are in an unhealthy condition either physically or emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions and to the destruction of our morality; and in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>.</p>
+
+<p>With those words of caution emblazoned in my mind I have been teaching myself software development since March 12, 2019. There have been some dark days and even dark months (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b>.</p>
+
 <p align="center">
     <a 
       href="https://www.mountaintopcoding.com" 
