@@ -57,20 +57,20 @@ b) I am excited to delve into the world of programable electronics.
 >
 
 ---
-#### - 🌱 I am currently learning the following languages/frameworks (listed abc):
+#### - 🌱 Here are a few of my favorite languages and tools:
 <br />
 <a href=#>
   <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/css3.svg" 
-    alt="CSS badge" 
+    src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" 
+    alt="Gatsby Badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
 <br />
 <a href=#>
   <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/html.svg" 
-    alt="HTML badge" 
+    src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" 
+    alt="Svelte badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
@@ -85,72 +85,11 @@ b) I am excited to delve into the world of programable electronics.
 <br />
 <a href=#>
   <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/nodejs_larger.svg" 
-    alt="node.js badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/npm.svg" 
-    alt="npm badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/python.svg" 
-    alt="Python badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-</br>
-
----
-### - 💪🏼 A few of my favorite tools/platforms are: 
-<br />
-<a href=#>
-  <img 
     src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/aws.svg" 
     alt="AWS badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/digitalocean.svg" 
-    alt="Digital Ocean badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/firefox.svg" 
-    alt="Firefox badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/mac.svg" 
-    alt="Mac badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
-<a href=#>
-  <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/visualstudio_code.svg" 
-    alt="Visual Studio Code badge" 
-    style="vertical-align:top margin:6px 4px"
-  >
-</a>
-<br />
 
 ---
 #### - 📫 How to reach me:
@@ -176,6 +115,17 @@ b) I am excited to delve into the world of programable electronics.
   >
 </a> 
 <br />
+<br />
+<a 
+  href="https://blog.mountaintopcoding.com/"
+>
+  <img 
+    src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" 
+    alt="hashnode blog" 
+    style="vertical-align:top margin:6px 4px"
+  >
+</a> 
+<br />
 
 ---
 ### - 😄 Pronouns: 
@@ -190,7 +140,7 @@ b) I am excited to delve into the world of programable electronics.
 <br />
 
 ---
-### This is the first website that I built. Eventually it would lead me down the path towards becoming a Full Stack WebDev:
+### This is the first website that I built. It was the catalyst that sparked my interest in becoming a web developer:
 <br />
 <p align="center">
     <a 
