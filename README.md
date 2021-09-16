@@ -49,6 +49,12 @@ b) I am excited to delve into the world of programable electronics.
     style="vertical-align:top margin:6px 4px"
   >
 </a>
+<a href="https://github.com/Isaac-Tait/AdaFruit_MacroPad">
+<img
+  src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/iot.svg"
+  alt="Internet of Things"
+  style="vertical-align:top margin:6px 4px"
+>
 
 ---
 #### - 🌱 I am currently learning the following languages/frameworks (listed abc):
