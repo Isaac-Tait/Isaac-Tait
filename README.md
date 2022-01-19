@@ -83,6 +83,7 @@ b) I am excited to delve into the world of programable electronics.
     style="vertical-align:top margin:6px 4px"
   >
 </a>
+<br />
 <a href='https://www.royalridges.camp' target="_blank">
   <img 
     src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" 
@@ -154,16 +155,23 @@ b) I am excited to delve into the world of programable electronics.
 <br />
 
 ---
-### - 😄 Pronouns: 
+### - 😄 Social: 
 <br />
-<a href='https://tenkaraangler.com/2020/05/25/shinrinyoku-%e6%a3%ae%e6%9e%97%e6%b5%b4/' target="_blank">
+<a href='https://www.instagram.com/fallfish_tenkara/' target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/Isaac-Tait/Isaac-Tait/master/icons/hehim.svg" 
-    alt="he/him badge" 
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    alt="Instagram badge" 
     style="vertical-align:top margin:6px 4px"
   >
 </a>  
 <br />
+<a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>
+  <img
+    src='https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white'
+    alt='KFC?'
+    style='vertical-align:top margin:6px 4px'
+  >
+</a>
 
 ---
 ### This is the first website that I built. It was the catalyst that sparked my interest in becoming a web developer:
