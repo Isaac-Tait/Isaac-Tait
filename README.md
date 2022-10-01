@@ -3,17 +3,26 @@
 ![Coding Cat](https://github.com/Isaac-Tait/Isaac-Tait/blob/master/tenor.gif)
 ---
 ### - 🏔 My personal portfolio site (it is a work in progress):
-<p>From my old backyard I could see a long dormant volcano that had captivated my imagination since we first moved in. Surprisingly that long dormant craggy peak came to impact my life more than I could have imagined when I first saw it from our backyard.</p>
+<p>In 2018 I was living in North County San Diego and from my backyard I could see a long dormant volcano. That peak captivated my imagination the moment when we moved in. </p>
 
-<p>When I first started my journey learning to code I would sit outside <code>&&</code> work on my laptop while my two year old son would play. I would often stare up at that volcano <code>&&</code> imagine myself conquering it <code>&&</code> standing on the summit. Throughout my life I have had many spiritual <code>&&</code> emotional mountain top moments. Times where I would overcome adversity, uncertainty, <code>||</code> uncover a surprising truth. As I dove deeper <code>&&</code> deeper into coding I realized that I was having a lot of mini mountain top moments. When I solved a complex coding challenges <code>||</code> I rooted out pesky bugs I would feel an overwhelming sense of accomplishment... <code>&&</code> just like that I came up with the name for my portfolio site...<b>mountainTopCoding(🏔);</b></p>
+<p>When my son was born in 2017 I became a full time stay at home dad. Being in a military community (my partner was a doctor in the US Navy) I did not meet many other stay at home dads. When we moved to a Marine Corps base (my old stomping grounds) I was the only stay at home dad in our entire on-base neighborhood. Being a full-time dad was filled with many challenges but just as many rewards and while the isolation at times was overwhelming I would not do it any other way.</p>
+ 
+<p>Throughout my life I have had many spiritual <code>&&</code> emotional mountain top moments. Times where I would overcome adversity, uncertainty, <code>||</code> uncover a surprising truth. Learning to code while simultaneously working as a full time dad was certainly filled with many moments deep in the valley juxtaposed with just as many mountain top experiences.</p>
+
+<p>The memory of those “summit” experiences are what carried me through the challenges of learning new programming languages, getting roasted on StackOverflow, or dealing with a toddler temper tantrum in the middle of Target. 
+
+<p>When I started my journey learning to code, in 2019, I would often sit outside <code>&&</code> work on my laptop while my two year old son would play in his sandbox. I would often stare up at the volcano <code>&&</code> imagine myself climbing it <code>&&</code> standing on the summit - <code>&&</code> just like that I came up with the name for my portfolio site...<b>mountainTopCoding(🏔);</b></p>
 
 <p>As an avid outdoors-man I know that successfully summiting a peak requires courage, tenacity, stamina, preparation, <code>&&</code> team work. Furthermore, the descent can often be considerably more dangerous than the ascent.</p>
 
-<p><b>mountainTopCoding(🏔);</b> is not just about the summit. It is also about the journey to the top <code>&&</code> getting down safely so that the next summit can be enjoyed. I believe that as a species we should use the "mountain top" experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave. Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous.</p>
+<p><b>mountainTopCoding(🏔);</b> is not just about the summit. It is also about the journey to the top <code>&&</code> getting down safely so that the next summit can be enjoyed.</p>
 
-<p>One of my favorite author emblazoned that fact in my mind when he said: <i>"When we are in an unhealthy condition either physically <code>||</code> emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions <code>&&</code> to the destruction of our morality; <code>&&</code> in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality." - Oswald Chamber</i>.</p>
+<p>As human beings we should use the "mountain top" experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave.</p>
 
-<p>With those words of caution as my North Star I have been teaching myself software development since March 12, 2019. There have been some dark days <code>&&</code> even dark months (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b>.</p>
+<p>Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous though.
+One of my favorite authors once wrote: <i>"When we are in an unhealthy condition either physically <code>||</code> emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions <code>&&</code> to the destruction of our morality; <code>&&</code> in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality."</i>.</p>
+
+<p>I often remember those words as I continue pursuing coding in all the genres that interest me. There have been some dark days <code>&&</code> even dark months (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b>.</p>
 
 <p align="center">
     <a 
