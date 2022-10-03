@@ -5,24 +5,24 @@
 ### - 🏔 My personal portfolio site (it is a work in progress):
 <p>In 2018 I was living in North County San Diego and from my backyard I could see a long dormant volcano. That peak captivated my imagination the moment when we moved in. </p>
 
-<p>When my son was born in 2017 I became a full time stay at home dad. Being in a military community (my partner was a doctor in the US Navy) I did not meet many other stay at home dads. When we moved to a Marine Corps base (my old stomping grounds) I was the only stay at home dad in our entire on-base neighborhood. Being a full-time dad was filled with many challenges but just as many rewards and while the isolation at times was overwhelming I would not do it any other way.</p>
+<p>When my son was born in 2017 I became a full-time dad. Being in a military community (my partner was a doctor in the US Navy) I did not meet many other stay at home dads. When we moved to San Diego I was the only stay at home dad in our entire on-base neighborhood. Being a full-time dad was and is great but it also came with some unique challenges. However, if given the chance I would not do it any other way.</p>
  
-<p>Throughout my life I have had many spiritual <code>&&</code> emotional mountain top moments. Times where I would overcome adversity, uncertainty, <code>||</code> uncover a surprising truth. Learning to code while simultaneously working as a full time dad was certainly filled with many moments deep in the valley juxtaposed with just as many mountain top experiences.</p>
+<p>Throughout my life I have had many spiritual <code>&&</code> emotional mountain top moments. Times where I would overcome adversity, uncertainty, <code>||</code> uncover a surprising truth. Learning to code while simultaneously working as a full-time dad was certainly filled with many moments deep in the "valley" juxtaposed with just as many "mountain-top" experiences.</p>
 
-<p>The memory of those “summit” experiences are what carried me through the challenges of learning new programming languages, getting roasted on StackOverflow, or dealing with a toddler temper tantrum in the middle of Target. 
+<p>The memory of those “summit” experiences are what carried me through the challenges of learning new programming languages, getting roasted on StackOverflow, or dealing with a toddler temper tantrum in the middle of Target.</p>
 
 <p>When I started my journey learning to code, in 2019, I would often sit outside <code>&&</code> work on my laptop while my two year old son would play in his sandbox. I would often stare up at the volcano <code>&&</code> imagine myself climbing it <code>&&</code> standing on the summit - <code>&&</code> just like that I came up with the name for my portfolio site...<b>mountainTopCoding(🏔);</b></p>
 
 <p>As an avid outdoors-man I know that successfully summiting a peak requires courage, tenacity, stamina, preparation, <code>&&</code> team work. Furthermore, the descent can often be considerably more dangerous than the ascent.</p>
 
-<p><b>mountainTopCoding(🏔);</b> is not just about the summit. It is also about the journey to the top <code>&&</code> getting down safely so that the next summit can be enjoyed.</p>
+<p><b>mountainTopCoding(🏔);</b> is not just about the summit. It is also about the journey to the top, getting down safely, <code>&&</code> navigating through the valleys of life all so that the next summit can be enjoyed.</p>
 
-<p>As human beings we should use the "mountain top" experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave.</p>
+<p>As human beings we should use the "mountain-top" experiences in our life to strengthen us while we are in the deep <code>&&</code> dark valleys, where the sky may be just a sliver of the expanse we crave.</p>
 
 <p>Living life for the sole purpose of pursuing <ins>only</ins> "mountain top" experiences can be dangerous though.
 One of my favorite authors once wrote: <i>"When we are in an unhealthy condition either physically <code>||</code> emotionally, we always look for thrills in life.[..] In our emotional life it leads to obsessions <code>&&</code> to the destruction of our morality; <code>&&</code> in our spiritual life, if we insist on pursuing only thrills, it will result in the destruction of our spirituality."</i>.</p>
 
-<p>I often remember those words as I continue pursuing coding in all the genres that interest me. There have been some dark days <code>&&</code> even dark months (COVID-19 quarantine with a three year old for example) but I have stuck with my coding journey. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b>.</p>
+<p>With those words keeping me grounded I have stuck with my journey as a coder through thick and thin. There have been some hard days <code>&&</code> even some long discouraging months - but I have stuck with it. So, without further ado click the button below to check out my portfolio site <b>mountainTopCoding(&#9968;);</b> and see what I have been building and creating.</p>
 
 <p align="center">
     <a 
