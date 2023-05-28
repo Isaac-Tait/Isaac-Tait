@@ -41,13 +41,5 @@ In 2018 my partner, son, and I were living in North County San Diego and from ou
 <p>My GitHub Stats</p>
 <a href="http://www.github.com/Isaac-Tait"><img src="https://github-readme-stats.vercel.app/api?username=Isaac-Tait&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Isaac-Tait's GitHub stats" /></a><a href="http://www.github.com/Isaac-Tait"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Tait&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-#### Top Repositories
-
-<div width="100%" align="center">
-  <a href="https://github.com/Isaac-Tait/Royal-Ridges-Retreat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=Royal-Ridges-Retreat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Isaac-Tait/ilovetofish" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=ilovetofish&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Isaac-Tait/tailwind-css-starter-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=tailwind-css-starter-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
 ### Support Me
 <a href="https://www.buymeacoffee.com/Isaactait"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
