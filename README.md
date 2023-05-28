@@ -26,20 +26,18 @@ In 2018 my partner, son, and I were living in North County San Diego and from ou
                     
 ### Socials
                   
-<p align="left">
-                          
-                      <a href="https://www.github.com/Isaac-Tait" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://hashnode.com/@Isaac-Tait.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/iloveto.fish/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/isaacmtait/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/11439685/isaac-tait" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/Isaac_Tait_83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Isaac-Tait"><img src="https://github-readme-stats.vercel.app/api?username=Isaac-Tait&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Isaac-Tait's GitHub stats" /></a><a
-                      href="http://www.github.com/Isaac-Tait"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Tait&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Isaac-Tait/Royal-Ridges-Retreat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=Royal-Ridges-Retreat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Isaac-Tait/ilovetofish" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=ilovetofish&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Isaac-Tait/tailwind-css-starter-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=tailwind-css-starter-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<a
-                  href="https://www.buymeacoffee.com/Isaactait"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left">                        
+<a href="https://www.github.com/Isaac-Tait" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                    
+<a href="https://hashnode.com/@Isaac-Tait.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>                      
+<a href="http://www.instagram.com/iloveto.fish/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/isaacmtait/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/11439685/isaac-tait" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/Isaac_Tait_83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+### Badges
+
+<p>My GitHub Stats</p>
+<a href="http://www.github.com/Isaac-Tait"><img src="https://github-readme-stats.vercel.app/api?username=Isaac-Tait&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Isaac-Tait's GitHub stats" /></a><a href="http://www.github.com/Isaac-Tait"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Tait&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Isaac-Tait/Royal-Ridges-Retreat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=Royal-Ridges-Retreat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Isaac-Tait/ilovetofish" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=ilovetofish&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Isaac-Tait/tailwind-css-starter-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-Tait&repo=tailwind-css-starter-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me<a href="https://www.buymeacoffee.com/Isaactait"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
