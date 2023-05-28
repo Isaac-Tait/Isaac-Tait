@@ -24,10 +24,9 @@ In 2018 my partner, son, and I were living in North County San Diego and from ou
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.github.com/Isaac-Tait" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
